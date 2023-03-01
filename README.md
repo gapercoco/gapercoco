@@ -1,4 +1,4 @@
 # Guillermo Andrés Percoco
 ## Fullstack developer
 
-<img src="https://wakatime.com/share/@gpercoco/9d4f979d-25b7-41b0-94e3-94c9a629eee0.svg" >
+<img src="https://wakatime.com/share/@gpercoco/47104fe3-3318-4c53-a181-3cc16ce48d69.svg" height="300px">
